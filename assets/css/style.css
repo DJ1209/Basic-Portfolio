@@ -1,0 +1,29 @@
+
+ .profileimg {
+    width: 200px;
+    height: auto;
+ }
+
+ .background {
+     background: url('https://images.unsplash.com/photo-1479981280584-037818c1297d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80') no-repeat center center fixed; 
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
+     background-color: #4aaaa5;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #666666;
+    text-align: center;
+    
+ }
+. image {
+  height: 200px; 
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
